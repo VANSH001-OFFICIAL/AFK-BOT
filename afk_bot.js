@@ -10,7 +10,7 @@ const BOT_CONFIG = {
     // पोर्ट नंबर को सीधा संख्या के रूप में लिखें।
     port: 45423,               
     // आपका यूज़रनेम कोटेशन मार्क्स ('') के अंदर होना चाहिए।
-    username: 'Vansh000101',   
+    username: 'AFKBot',   
     
     // अगर आपके सर्वर को पासवर्ड चाहिए, तो यह Environment Variable से आएगा
     password: process.env.MC_PASSWORD, 
