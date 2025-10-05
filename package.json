@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-node-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK Bot hosted on Render.",
+  "main": "afk_bot.js",
+  "scripts": {
+    "start": "node afk_bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.2.0",
+    "mineflayer-pathfinder": "^2.0.0",
+    "minecraft-data": "^3.0.0" 
+  }
+}
