@@ -9,9 +9,9 @@ app.listen(process.env.PORT || 3000);
 
 // --- BOT CONFIGURATION ---
 const botArgs = {
-    host: 'AJPhantom07.aternos.me', // Apni IP yahan daalein
+    host: 'shadowgodsmp.aternos.me', // Apni IP yahan daalein
     port: 25565,                  
-    username: 'GhostPlayer_01',    // Bot ka naam
+    username: 'Badmoshi001001',    // Bot ka naam
     version: '1.21.11'              // Server version check karein
 };
 
