@@ -12,7 +12,7 @@ const botArgs = {
     host: 'shadowgodsmp.aternos.me', // Apni IP yahan daalein
     port: 25565,                  
     username: 'Badmoshi001001',    // Bot ka naam
-    version: '1.21.11'              // Server version check karein
+    version: false             // Server version check karein
 };
 
 const initBot = () => {
